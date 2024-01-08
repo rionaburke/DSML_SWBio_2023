@@ -15,17 +15,17 @@ It was built in Jupyter lab v3.6.3
 
 The dataset simulated_quail_data_python consists of simulated data based on pre-existing collection parameters (see Jupyter notebook).
 
--Sex: The sex of the F1 bird 
--BirdID: The ID of the F1 bird 
--Mother: The ID of the F0 mother of the F1 bird
--MatLine: The breeding line the F0 mother originates from 
--Father: The ID of the F0 father of the F1 bird
--PatLine: The breeding line the F0 father originates from 
--EggsLaid: The number of eggs laid by F1 offspring 
--DaysObserved: The number of days the birds were studied for
--LayRate: The number of eggs laid divided by the number of days observed
--AverageEggF1: The average weight of the eggs laid by the F1 offspring
--AverageEggF0: The average weight of the eggs laid by the F0 mothers
+- Sex: The sex of the F1 bird 
+- BirdID: The ID of the F1 bird 
+- Mother: The ID of the F0 mother of the F1 bird
+- MatLine: The breeding line the F0 mother originates from 
+- Father: The ID of the F0 father of the F1 bird
+- PatLine: The breeding line the F0 father originates from 
+- EggsLaid: The number of eggs laid by F1 offspring 
+- DaysObserved: The number of days the birds were studied for
+- LayRate: The number of eggs laid divided by the number of days observed
+- AverageEggF1: The average weight of the eggs laid by the F1 offspring
+- AverageEggF0: The average weight of the eggs laid by the F0 mothers
 
 
 ## Requirements
