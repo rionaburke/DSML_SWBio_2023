@@ -11,6 +11,12 @@ The code written for this acts as a precursor to the main project and aims to va
 It was built in Jupyter lab v3.6.3
 
 
+## Installation
+
+
+Project can be installed by downloading Jupyter notebook file along with the dataset (https://github.com/rionaburke/DSML_SWBio_2023/blob/main/simulated_quail_data_python.csv) from GitHub repository (https://github.com/rionaburke/DSML_SWBio_2023/tree/main).
+
+
 ## Dataset
 
 The dataset simulated_quail_data_python consists of simulated data based on pre-existing collection parameters (see Jupyter notebook).
@@ -28,25 +34,10 @@ The dataset simulated_quail_data_python consists of simulated data based on pre-
 - AverageEggF0: The average weight of the eggs laid by the F0 mothers
 
 
-## Requirements
+## Results from initial sample dataset
 
 
-This project requires the importation of the following using python
-
-1. numpy
-1. pandas
-1. seaborn
-
-## Installation
-
-
-Project can be installed by downloading Jupyter notebook file from github and opening via Jupyter notebook.
-
-
-## Configuration
-
-
-The project is modifiable by generating new random values for the egg size dataset within the specified ranges. There is no configuration.
+From the analysis, we found that F1 offspring of both the HI and LI lines lay eggs similar in weight to their F0 mothers. We also found that HI offspring seem to lay at a lower rate than LI offspring but that LI offspring have a larger range of lay rate. F0 HI egg weight is distinct from F0 LI mother egg weight when plotted but F1 HI egg weight is not as clearly removed from F1 LI egg weight perhaps indicating confounding factors such as the environment.
 
 
 ## Support information
